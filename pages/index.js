@@ -48,7 +48,7 @@ export default function Home() {
             </li>
           </ul>
         </section> 
-        <section className='px-5 md:px-10'>
+        <section className='p-5 md:p-10'>
           <div>
             <h3 className='text-2xl py-2 pt-9 dark:text-cyan-200'>Professional Experience</h3>
             <p className='text-md py-2 leading-7 text-gray-800 dark:text-gray-400'>
