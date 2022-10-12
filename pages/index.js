@@ -70,7 +70,7 @@ export default function Home() {
                 <BsFillMoonStarsFill onClick={() => setDarkMode(!darkMode)} className="cursor-pointer text-2xl dark:text-white"/>
               </li>
               <li>
-                <a className="transition-all duration-600 bg-gradient-to-br to-teal-600 via-blue-700 from-cyan-700 bg-size-200 text-white px-4 py-2 rounded-md ml-8 font-poppins hover:bg-right-bottom" href="https://www.linkedin.com/in/sergiumereacre">Let's Connect</a>
+                <a className="transition-all duration-600 bg-gradient-to-br to-teal-600 via-blue-700 from-cyan-700 bg-size-200 text-white px-4 py-2 rounded-md ml-8 font-poppins hover:bg-right-bottom" href="https://www.linkedin.com/in/sergiumereacre">Lets Connect</a>
               </li>
             </ul>
           </nav>
@@ -79,7 +79,7 @@ export default function Home() {
             <h2 className='text-5xl py-2 font-medium text-transparent bg-clip-text bg-gradient-to-l from-red-400 to-blue-500'>Sergiu Mereacre</h2>
             <h3 className='text-2xl py-2 dark:text-cyan-200'>Developer and {text}.</h3>
             <p className='text-md py-5 leading-7 text-gray-800 md:max-w-lg mx-auto dark:text-gray-400'>
-              I'm a software engineer based in Ireland. I'm passionate about building and launching products that solve real world problems. Computers are my <span className='font-bold text-blue-500'>passion</span> and I love to learn new things.
+              Im a software engineer based in Ireland. Im passionate about building and launching products that solve real world problems. Computers are my <span className='font-bold text-blue-500'>passion</span> and I love to learn new things.
             </p>
           </div>
           {/* THIS IS THE SECTION WHERE THE SOCIAL MEDIA ICONS ARE. */}
@@ -114,7 +114,7 @@ export default function Home() {
                 <p className='py-2 dark:text-gray-400'>
                   I have worked on projects with a team and also on my own. Some have reached a small audience and others have the potential to reach <span className='text-blue-600 font-bold'>millions</span>.
                 </p>
-                <h4 className='py-3 text-orange-600 dark:text-orange-700'>Coding lanugages I've used in the past.</h4>
+                <h4 className='py-3 text-orange-600 dark:text-orange-700'>Coding lanugages Ive used in the past.</h4>
                 <p className='text-gray-800 py-1 dark:text-gray-500'>Python</p>
                 <p className='text-gray-800 py-1 dark:text-gray-500'>Java</p>
                 <p className='text-gray-800 py-1 dark:text-gray-500'>C++</p>
