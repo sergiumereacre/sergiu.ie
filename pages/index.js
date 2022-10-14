@@ -108,7 +108,7 @@ export default function Home() {
           {/* THIS SECTION DEALS WITH THE CARDS AT THE BOTTOM. */}
           <div className='lg:flex gap-10'>
             <div>
-              <div className='text-center shadow-lg p-10 rounded-xl my-10 transition-all duration-300 hover:shadow-2xl bg-slate-50 dark:bg-slate-900'>
+              <div className='text-center shadow-lg p-10 rounded-xl my-10 transition-all duration-300 hover:shadow-2xl hover:shadow-slate-800 bg-slate-50 dark:bg-slate-900'>
                 <Image src={code} width={100} height={100}/>
                 <h3 className='text-lg font-medium pt-6 pb-1 dark:text-cyan-200'>Coding Projects</h3>
                 <p className='py-2 dark:text-gray-400'>
@@ -121,7 +121,7 @@ export default function Home() {
               </div>
             </div>
             <div>
-              <div className='text-center shadow-lg p-10 rounded-xl my-10 transition-all duration-300 hover:shadow-2xl bg-slate-50 dark:bg-slate-900'>
+              <div className='text-center shadow-lg p-10 rounded-xl my-10 transition-all duration-300 hover:shadow-2xl hover:shadow-slate-800 bg-slate-50 dark:bg-slate-900'>
                 <Image src={design} width={100} height={100}/>
                 <h3 className='text-lg font-medium pt-6 pb-1 dark:text-cyan-200'>Beautiful Designs</h3>
                 <p className='py-2 dark:text-gray-400'>
@@ -134,7 +134,7 @@ export default function Home() {
               </div>
             </div>
             <div>
-              <div className='text-center shadow-lg p-10 rounded-xl my-10 transition-all duration-300 hover:shadow-2xl bg-slate-50 dark:bg-slate-900'>
+              <div className='text-center shadow-lg p-10 rounded-xl my-10 transition-all duration-300 hover:shadow-2xl hover:shadow-slate-800 bg-slate-50 dark:bg-slate-900'>
                 <Image src={consulting} width={100} height={100}/>
                 <h3 className='text-lg font-medium pt-6 pb-1 dark:text-cyan-200'>Team Collaboration</h3>
                 <p className='py-2 dark:text-gray-400'>
@@ -147,7 +147,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <footer className="p-5 bg-slate-50 rounded-lg shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-slate-900 transition-all duration-300 hover:shadow-2xl">
+          <footer className="p-5 bg-slate-50 rounded-lg shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-slate-900 transition-all duration-300 hover:shadow-2xl hover:shadow-slate-800">
             <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 <a href="" class="hover:underline">Sergiu™</a>. All Rights Reserved.</span>
           </footer>
         </section>
