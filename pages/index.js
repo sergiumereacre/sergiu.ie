@@ -114,7 +114,7 @@ export default function Home() {
                 <p className='py-2 dark:text-gray-400'>
                   I have worked on projects with a team and also on my own. Some have reached a small audience and others have the potential to reach <span className='text-blue-600 font-bold'>millions</span>.
                 </p>
-                <h4 className='py-3 text-orange-600 dark:text-orange-700'>Coding lanugages I&apos;ve used in the past.</h4>
+                <h4 className='py-3 text-orange-600 dark:text-orange-700'>Coding languages I&apos;ve used in the past.</h4>
                 <p className='text-gray-800 py-1 dark:text-gray-500'>Python</p>
                 <p className='text-gray-800 py-1 dark:text-gray-500'>Java</p>
                 <p className='text-gray-800 py-1 dark:text-gray-500'>C++</p>
